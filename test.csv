@@ -1,3 +1,5 @@
 ItemID,Wholesale,Discount,Distributor,MSR,isDeleted,Note
 item1,0.25,0.25,0.25,0.5,True,.99 to .50 retail
-item2,0.2000,0.2000,0.2000,1.99,False,test
+item2,0.2000,0.2000,0.2000,1.99,False,
+item3,1.0000,0.7500,0.3000,95.99,True,
+item4,0.1000,0.1000,0.1000,1.99,False,
