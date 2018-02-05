@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<LastName>item1</LastName>
+		<Sales>9.99</Sales>
+		<Country>5</Country>
+		<Quarter>first</Quarter>
+	</record>
+	<record>
+		<LastName>item2</LastName>
+		<Sales>29.99</Sales>
+		<Country>15</Country>
+		<Quarter>first</Quarter>
+	</record>
+</data-set>
