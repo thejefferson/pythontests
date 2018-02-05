@@ -2,9 +2,9 @@
 <data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<record>
 		<LastName>item1</LastName>
-		<Sales>9.99</Sales>
-		<Country>5</Country>
-		<Quarter>first</Quarter>
+		<Sales>4.99</Sales>
+		<Country>2.5</Country>
+		<Quarter>closeout</Quarter>
 	</record>
 	<record>
 		<LastName>item2</LastName>
